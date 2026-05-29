@@ -1,12 +1,12 @@
 streamlit
-transformers
+transformers==4.41.2
 torch
 sentence-transformers
-PyMuPDF
+faiss-cpu
 langchain
 langchain-community
-faiss-cpu
-sentence-transformers
+PyMuPDF
+numpy
 PyPDF2
 python-dotenv
 google-generativeai
