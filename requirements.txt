@@ -1,4 +1,8 @@
 streamlit
+transformers
+torch
+sentence-transformers
+PyMuPDF
 langchain
 langchain-community
 faiss-cpu
